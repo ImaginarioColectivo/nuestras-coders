@@ -1,0 +1,40 @@
+h1{
+font-family: roboto;
+}
+
+hr{margin-left: 0px;
+	width: 130px;
+	size: 2px;
+	color: black;
+	background:black;
+	margin-top: -10px;
+
+}
+
+div.coders{
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin: 30px;
+}
+
+div.coders img{
+	width: 100%
+	height:auto;
+	position: relative;
+	opacity: 0,5px;
+}
+
+div.coders img:hover{
+	opacity: 1;
+}
+
+div.coders p{
+	position: relative;
+	bottom: 50px;
+	color: white;
+	text-align: right;
+	font-family: roboto;
+	font-size: 18px;
+	margin;left: -60px;
+}
